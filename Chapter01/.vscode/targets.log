@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Aug 25 15:59:04 2022
+# Make data base, printed on Thu Aug 25 16:08:17 2022
 
 # Variables
 
@@ -97,7 +97,7 @@ SNAP_REEXEC =
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_PID = 13307
+VSCODE_PID = 14434
 # environment
 XDG_SESSION_TYPE = wayland
 # automatic
@@ -127,7 +127,7 @@ XMODIFIERS = @im=ibus
 # environment
 SHLVL = 1
 # environment
-GNOME_TERMINAL_SCREEN = /org/gnome/Terminal/screen/0c8eb8f7_3359_4630_b25e_7ac15d99fd98
+GNOME_TERMINAL_SCREEN = /org/gnome/Terminal/screen/5fe6dcd1_1072_4189_b690_298e708822b0
 # environment
 MAKELEVEL := 0
 # default
@@ -266,10 +266,10 @@ SNAP_LIBRARY_PATH = /var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd
 # Directories
 
 # code (device 2051, inode 1711618): 3 files, no impossibilities.
-# . (device 2051, inode 1711539): 9 files, no impossibilities.
+# . (device 2051, inode 1711539): 11 files, no impossibilities.
 # ./code (device 2051, inode 1711618): 3 files, no impossibilities.
 
-# 15 files, no impossibilities in 3 directories.
+# 17 files, no impossibilities in 3 directories.
 
 # Implicit Rules
 
@@ -281,9 +281,9 @@ SNAP_LIBRARY_PATH = /var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd
 # Files
 
 game.out: Timber.o
- 
 #  Implicit rule search has not been done.
 #  Modification time never checked.
+ 
 #  File has not been updated.
 #  recipe to execute (from 'makefile', line 11):
 	g++ -o $@ $^ $(LDFLAGS)
@@ -339,9 +339,9 @@ makefile:
 # strcache buffers: 1 (0) / strings = 22 / storage = 172 B / avg = 7 B
 # current buf: size = 8162 B / used = 172 B / count = 22 / avg = 7 B
 
-# strcache performance: lookups = 32 / hit rate = 31%
+# strcache performance: lookups = 34 / hit rate = 35%
 # hash-table stats:
-# Load=22/8192=0%, Rehash=0, Collisions=0/32=0%
-# Finished Make data base on Thu Aug 25 15:59:04 2022
+# Load=22/8192=0%, Rehash=0, Collisions=0/34=0%
+# Finished Make data base on Thu Aug 25 16:08:17 2022
 
  
